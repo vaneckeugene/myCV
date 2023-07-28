@@ -8,7 +8,7 @@
 
 .bgimage {
     height:100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('assets/images/landing_image.jpg') no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('landing_image.jpg') no-repeat;
     background-size:cover;
     position:relative;
     padding: 0;
